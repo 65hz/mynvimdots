@@ -1,6 +1,6 @@
 # Neovim Config
 
-Welcome to my NeoVim config. Use it for inspiration.
+Hey there! Welcome to a neovim config [based off of this template](https://github.com/radleylewis/nvim) with some changes by me.
 
 ## plugins
 
@@ -30,9 +30,4 @@ Welcome to my NeoVim config. Use it for inspiration.
 [hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - establish better vim habits  
 
 ## neovim version supported
-
-^0.9.0
-
-## author
-
-Radley E. Sidwell-Lewis
+Any version above Neovim 0.9 will work.
