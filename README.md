@@ -2,7 +2,7 @@
 
 Hey there! Welcome to a neovim config [based off of this template](https://github.com/radleylewis/nvim) with some changes by me.
 
-## plugins
+## Plugins
 
 [lazy.nvim](https://github.com/folke/lazy.nvim) - Plugin manager  
 [comment.nvim](https://github.com/numToStr/Comment.nvim) - Commenting  
