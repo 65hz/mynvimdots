@@ -16,7 +16,7 @@ Hey there! Welcome to a neovim config [based off of this template](https://githu
 [mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim) - Better mason and lsp-config integration  
 [efm-langserver](https://github.com/mattn/efm-langserver) - Linting and Formatting  
 [mason](https://github.com/williamboman/mason.nvim) - LSP installation management  
-[catppuccin](https://github.com/morhetz/gruvbo) - catppuccin colourscheme  
+[catppuccin](https://github.com/catppucin/nvim) - catppuccin colourscheme  
 [noice](https://github.com/folke/noice.nvim) - vim commandline ui  
 [nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopair completion  
 [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - auto-completion support  
@@ -27,7 +27,9 @@ Hey there! Welcome to a neovim config [based off of this template](https://githu
 [trouble](https://github.com/folke/trouble.nvim) - diagnostics  
 [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminates instances of word under cursor  
 [whichkey](https://github.com/folke/which-key.nvim) - shortcut hints  
-[hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - establish better vim habits  
+[hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - establish better vim habits
+[dashboard.nvim](https://github.com/nvimdev/dashboard-nvim)
+[lazygit](https://github.com/kdheepak/lazygit.nvim)
 
 ## Supported versions
 Any version above Neovim 0.9 will work.
