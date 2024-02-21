@@ -28,8 +28,8 @@ Hey there! Welcome to a neovim config [based off of this template](https://githu
 [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminates instances of word under cursor  
 [whichkey](https://github.com/folke/which-key.nvim) - shortcut hints  
 [hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - establish better vim habits
-[dashboard.nvim](https://github.com/nvimdev/dashboard-nvim)
-[lazygit](https://github.com/kdheepak/lazygit.nvim)
+[dashboard.nvim](https://github.com/nvimdev/dashboard-nvim) - dashboard for neovim
+[lazygit](https://github.com/kdheepak/lazygit.nvim) - a more lua(?) solution to vim-fugitive
 
 ## Supported versions
 Any version above Neovim 0.9 will work.
