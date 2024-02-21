@@ -29,5 +29,5 @@ Hey there! Welcome to a neovim config [based off of this template](https://githu
 [whichkey](https://github.com/folke/which-key.nvim) - shortcut hints  
 [hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - establish better vim habits  
 
-## neovim version supported
+## Supported versions
 Any version above Neovim 0.9 will work.
